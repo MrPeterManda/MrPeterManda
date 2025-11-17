@@ -1,11 +1,11 @@
-👋 Hi there! My name is Peter Manda, a passionate software enthusiast and aspiring software engineer. Welcome to my GitHub profile!
+Hi there! My name is Peter Manda, a passionate software enthusiast and aspiring software engineer. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I am currently learning **Software Engineering** and constantly expanding my knowledge in the field.
-- 👀 I have a keen interest in **coding**, problem-solving, and building robust software solutions.
-- 💞️ I am open to collaborating on exciting **software development/engineering projects** that challenge me and allow me to grow.
-- 📫 You can reach me via email at **levels.enterprises.ptyltd@gmail.com** or **peter.pmanda.manda@gmail.com**.
+- I am currently learning **Software Engineering** and constantly expanding my knowledge in the field.
+- I have a keen interest in **coding**, problem-solving, and building robust software solutions.
+- I am open to collaborating on exciting **software development/engineering projects** that challenge me and allow me to grow.
+- You can reach me via email at **levels.enterprises.ptyltd@gmail.com** or **peter.pmanda.manda@gmail.com**.
 <!---
 ## Projects
 
